@@ -4,3 +4,4 @@ commit 3
 commit 4
 
 commit after cloning
+commit on branch user1 
